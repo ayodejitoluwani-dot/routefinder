@@ -1,6 +1,6 @@
 """
 Configuration management for the Public Transport Route Finder.
-Supports multiple map providers: Google Maps, HERE API.
+Supports multiple map providers (Google Maps, HERE API) and allows easy addition of new APIs.
 """
 import os
 from dotenv import load_dotenv
