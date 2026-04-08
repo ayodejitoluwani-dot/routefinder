@@ -231,4 +231,5 @@ def main():
 
 if __name__ == "__main__":
     # This allows running with: streamlit run app.py
+    # This is the brain of the web app that controls the flow
     main()
