@@ -172,3 +172,5 @@ class RouteRating:
     average_rating: float
     review_count: int
     rating_distribution: Dict[int, int]  # {1: count, 2: count, ...}
+
+##proof-read and documented
