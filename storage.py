@@ -1,6 +1,7 @@
 """
 Data persistence layer for user reviews and favorites.
 Uses JSON file storage for simplicity (can be upgraded to SQLite later).
+Stores and retrieves user reviews and favorites using a JSON file for easy data persistence.
 """
 import json
 import os
